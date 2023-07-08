@@ -2,6 +2,9 @@
 # happycake-g32
 Repositorio para SPA Happy Cake correspondiente al trabajo en la Generación 32 de ADL
 =======
+![imagen](https://github.com/milo2112/happycake-g32/assets/31677756/0650872b-e95d-472b-b0ca-14e86aedb3e8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

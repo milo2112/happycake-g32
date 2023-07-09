@@ -6,7 +6,7 @@ function Footer() {
   return (
     <Navbar bg="danger" expand="lg" data-bs-theme="dark" fixed="bottom">
       <Container style={{display: 'flex', justifyContent: 'center'}}>
-        <Navbar.Brand href="#">Copyrights®</Navbar.Brand>
+        <Navbar.Brand>Copyrights®</Navbar.Brand>
       </Container>
     </Navbar>
     

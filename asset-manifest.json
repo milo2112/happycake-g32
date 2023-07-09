@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/happycake-g32/static/css/main.28cf9a47.chunk.css",
+    "main.js": "/happycake-g32/static/js/main.49abcbb5.chunk.js",
+    "main.js.map": "/happycake-g32/static/js/main.49abcbb5.chunk.js.map",
+    "runtime-main.js": "/happycake-g32/static/js/runtime-main.c5de4950.js",
+    "runtime-main.js.map": "/happycake-g32/static/js/runtime-main.c5de4950.js.map",
+    "static/css/2.5303dbd9.chunk.css": "/happycake-g32/static/css/2.5303dbd9.chunk.css",
+    "static/js/2.5db3d7e6.chunk.js": "/happycake-g32/static/js/2.5db3d7e6.chunk.js",
+    "static/js/2.5db3d7e6.chunk.js.map": "/happycake-g32/static/js/2.5db3d7e6.chunk.js.map",
+    "index.html": "/happycake-g32/index.html",
+    "static/css/2.5303dbd9.chunk.css.map": "/happycake-g32/static/css/2.5303dbd9.chunk.css.map",
+    "static/css/main.28cf9a47.chunk.css.map": "/happycake-g32/static/css/main.28cf9a47.chunk.css.map",
+    "static/js/2.5db3d7e6.chunk.js.LICENSE.txt": "/happycake-g32/static/js/2.5db3d7e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5de4950.js",
+    "static/css/2.5303dbd9.chunk.css",
+    "static/js/2.5db3d7e6.chunk.js",
+    "static/css/main.28cf9a47.chunk.css",
+    "static/js/main.49abcbb5.chunk.js"
+  ]
+}

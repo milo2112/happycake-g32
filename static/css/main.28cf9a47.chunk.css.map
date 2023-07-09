@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,SACI,YAAa,CACb,0BACJ,CAEA,KAEI,wBACJ","file":"main.28cf9a47.chunk.css","sourcesContent":[".reverse {\r\n    display: flex;\r\n    flex-direction: row-reverse;\r\n}\r\n\r\nbody {\r\n    /* background-color: #f4f4f4; */\r\n    background-color: #f8f4f4;\r\n}\r\n"]}
